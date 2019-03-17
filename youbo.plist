@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ds.youbo</string>
+				<string>com.ds.youBoApp</string>
 				<key>bundle-version</key>
 				<string>3.0</string>
 				<key>kind</key>

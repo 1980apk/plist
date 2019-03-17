@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ds.qixing</string>
+				<string>com.ds.qixings</string>
 				<key>bundle-version</key>
 				<string>3.0</string>
 				<key>kind</key>

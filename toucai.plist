@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ds.toucai</string>
+				<string>com.ds.touCaiApp</string>
 				<key>bundle-version</key>
 				<string>3.0</string>
 				<key>kind</key>

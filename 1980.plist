@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ds.1980</string>
+				<string>com.1980App</string>
 				<key>bundle-version</key>
 				<string>3.0</string>
 				<key>kind</key>
